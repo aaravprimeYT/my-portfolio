@@ -1,0 +1,16 @@
+h1{
+    color:chartreuse
+}
+h2,p{
+    text-align: center;
+}
+.Header{
+    display:flex;
+    justify-content: space-between;
+    background-color: brown;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
